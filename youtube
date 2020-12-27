@@ -1,0 +1,15 @@
+html:not(.style-scope)[dark], :not(.style-scope)[dark] {
+/*left drawer bg color*/
+--yt-spec-brand-background-solid: rgb(49, 49, 58) !important;
+/*top bar bng color*/
+--yt-spec-brand-background-primary: rgb(49, 49, 58) !important;
+/**/
+--yt-spec-brand-background-secondary: rgba(0, 0, 255, 1) !important;
+/*main bg color*/
+--yt-spec-general-background-a: rgb(29, 29, 38) !important;
+/*some other elements bg color*/
+--yt-spec-general-background-b: rgb(49, 49, 58) !important;
+/*idk*/
+--yt-spec-general-background-c: #ff0000 !important;
+--yt-searchbox-background: var(--yt-spec-general-background-a) !important;
+}
